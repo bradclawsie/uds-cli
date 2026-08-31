@@ -4,6 +4,7 @@ Welcome :unicorn: to the UDS CLI! If you'd like to contribute, please reach out 
 Below are some notes on our core software design philosophies that should help guide contributors.
 
 I MADE SOME CHANGES
+I MADE MORE CHANGES
 
 ## Table of Contents
 1. [Code Quality and Standards](#code-quality-and-standards)
