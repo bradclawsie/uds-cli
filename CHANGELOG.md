@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.37.1](https://github.com/bradclawsie/uds-cli/compare/v0.37.0...v0.37.1) (2026-09-01)
+
+
+### Bug Fixes
+
+* test release-please 4 ([3cdc575](https://github.com/bradclawsie/uds-cli/commit/3cdc5755a9bf33076ab0102b20099e38179befe1))
+
 ## [0.37.0](https://github.com/bradclawsie/uds-cli/compare/v0.36.0...v0.37.0) (2026-08-31)
 
 
